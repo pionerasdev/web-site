@@ -1,0 +1,5 @@
+[28-Oct-2016 16:08:35 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/everbrander/public_html/pioneras2016/blog/wp-content/themes/bootstrap-to-wp/functions.php on line 16
+[03-Nov-2016 15:32:46 UTC] PHP Parse error:  syntax error, unexpected ' ' (T_STRING) in /home/everbrander/public_html/pioneras2016/blog/wp-content/themes/wp-rootstrap/functions.php on line 49
+[03-Nov-2016 15:35:17 UTC] PHP Parse error:  syntax error, unexpected ' ' (T_STRING) in /home/everbrander/public_html/pioneras2016/blog/wp-content/themes/wp-rootstrap/functions.php on line 49
+[11-Nov-2016 15:15:34 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/everbrander/public_html/pioneras2016/wp-content/themes/wp-rootstrap/content-single.php on line 30
+[14-Nov-2016 05:34:17 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/everbrander/public_html/pioneras2016/wp-content/themes/wp-rootstrap/content-single.php on line 30
