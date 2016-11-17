@@ -1,4 +1,4 @@
-# Pioneras-Developers
+# web-site
 
 En este informe se realiza una búsqueda de información para la creación de un sitio web  dinámico que cubra las necesidades del grupo PionerasDevelopers .
 Se realizó un benchmarking donde se analizaron los distintos sitios web que pertenecen a grupos de mujeres programadoras, los cuales nos sirven como referencia y marcan algunas tendencias generales.
